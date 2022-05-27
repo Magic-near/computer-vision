@@ -1,2 +1,6 @@
 # computer-vision-
- Assignments for the course "Computer Vision" @ ITMO University 
+<h2>Решения практических работ для курса "Компьютерное зрение".<h2/>
+
+Белова Алёна Сергеевна
+
+Группа: K33421
